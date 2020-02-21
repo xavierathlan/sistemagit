@@ -1,5 +1,5 @@
 - Mini sistema de cadastro e login, com orientação à objetos
-- Par o front, utilizei alguns recursos da bíblioteca bootstrap.
+- Para o front, utilizei alguns recursos da bíblioteca bootstrap.
 - Utilizei o editor sublime Text
 - Também utilizei a ferramenta phpMyAdmin, que contém o próprio MySQL, bem como o Apache.
 - No banco de dados, foi criado uma tabela
